@@ -16,9 +16,9 @@ FYSETC R4 only support Klipper firmware. All related Klipper firmware files like
 
 Step 1: Power on the board
 
-Step 2: Push an hold `RST` button
+Step 2: Push an hold `BOOTSEL` button
 
-Step 3: Click `BOOTSEL` button and release `RST` button
+Step 3: Click `RST` button and release `BOOTSEL` button
 
 Step 4: `RPI-RP2` folder will show up on your computer, copy your built firmware `klipper.uf2` to the folder.
 
