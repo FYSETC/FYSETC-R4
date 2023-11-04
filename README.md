@@ -32,3 +32,6 @@ Step 5: `RPI-RP2` folder will show up on your computer, copy your built firmware
 
 See `printer.cfg` in this repository `firmware` folder.
 
+### Pinout
+
+![](R4_PIN_OUT.jpg)
